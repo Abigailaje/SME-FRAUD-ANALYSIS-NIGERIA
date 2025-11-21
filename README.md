@@ -1,4 +1,4 @@
-# Project One: Cyber-Enabled Fraud Targeting Nigerian SMEs
+# Cyber-Enabled Fraud Targeting Nigerian SMEs
 
 **Analyst:** ABIGAIL AJETUNMOBI | **Date:** NovEMBER 2025 
 
